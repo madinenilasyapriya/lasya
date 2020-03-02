@@ -1,2 +1,0 @@
-# lasya
-project2
